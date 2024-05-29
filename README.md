@@ -1,4 +1,5 @@
 <head>
+  <a href="https://githubhabit.github.io/comment/">Отзывы</a>
   <!-- ... -->
   <link
     rel="stylesheet"
