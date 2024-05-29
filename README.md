@@ -20,5 +20,4 @@
 <style>
 .wl-count { visibility: hidden; }
 .wl-sort { visibility: hidden; }
-.container-lg { visibility: hidden; }
 </style>
