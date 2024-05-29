@@ -26,4 +26,4 @@
 .wl-sort { visibility: hidden; }
 </style>
 
-<iframe src="https://commentxbox.vercel.app/" ></iframe>
+<iframe src="https://commentxbox.vercel.app/" allowfullscreen ></iframe>
