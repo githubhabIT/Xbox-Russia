@@ -1,5 +1,4 @@
 <head>
-  <a href="https://githubhabit.github.io/comment/">Отзывы</a>
   <!-- ... -->
   <link
     rel="stylesheet"
@@ -23,3 +22,6 @@
 .wl-count { visibility: hidden; }
 .wl-sort { visibility: hidden; }
 </style>
+<head>
+  <a href="https://githubhabit.github.io/comment/">Отзывы</a>
+</head>
