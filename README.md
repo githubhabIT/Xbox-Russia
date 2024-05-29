@@ -1,4 +1,5 @@
 <head>
+  <!-- ... -->
   <link
     rel="stylesheet"
     href="https://unpkg.com/@waline/client@v3/dist/waline.css"
@@ -12,7 +13,7 @@
 
     init({
       el: '#waline',
-      serverURL: 'https://commentxbox.vercel.app',
+      serverURL: 'https://commentxbox.vercel.app/',
       lang: 'ru',
     });
   </script>
