@@ -24,6 +24,7 @@
 <style>
 .wl-count { visibility: hidden; }
 .wl-sort { visibility: hidden; }
+  darkmode-selector {
+  /* Regular color */
+  --waline-white: #000;
 </style>
-
-<iframe src="https://commentxbox.vercel.app/" allowfullscreen ></iframe>
