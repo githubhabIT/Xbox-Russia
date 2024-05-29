@@ -1,8 +1,4 @@
 <head>
-  <a href="https://githubhabit.github.io/comment/">Отзывы</a>
-</head>
-<head>
-  <!-- ... -->
   <link
     rel="stylesheet"
     href="https://unpkg.com/@waline/client@v3/dist/waline.css"
