@@ -1,7 +1,7 @@
 <head>
   <center>
   <div id="rec754935812" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px;background-color:#009f2a; " data-record-type="106" data-bg-color="#009f2a" data-animationappear="off">
-    style="font-size: 30px;" data-customstyle="yes"><strong style="font-family: Roboto;">Отзывы Xbox Россия</strong></div></div></div></div></div><style> #rec754935812 .t-text { color: #ffffff; }</style></div>
+    style="font-size: 30px;" data-customstyle="yes"><strong style="font-family: Roboto;">Отзывы Xbox Россия</strong> #rec754935812 .t-text { color: #ffffff; }</style></div>
   </center>
   <!-- ... -->
   <link
