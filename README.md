@@ -27,4 +27,9 @@
   darkmode-selector {
   /* Regular color */
   --waline-white: #000;
+  #rec754935812 {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 </style>
