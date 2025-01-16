@@ -24,4 +24,5 @@
   darkmode-selector {
   /* Regular color */
   --waline-white: #000;
+    reaction: 'false'
 </style>
