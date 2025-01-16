@@ -15,13 +15,13 @@
       el: '#waline',
       serverURL: 'https://commentxbox.vercel.app/',
       lang: 'ru',
+      reaction: '', // Set reaction to an empty string
     });
   </script>
 </body>
 <style>
 .wl-count { visibility: hidden; }
 .wl-sort { visibility: hidden; }
-.wl-reaction { visibility: hidden; }
   darkmode-selector {
   /* Regular color */
   --waline-white: #000;
