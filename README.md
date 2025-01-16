@@ -21,8 +21,8 @@
 <style>
 .wl-count { visibility: hidden; }
 .wl-sort { visibility: hidden; }
+.wl-reaction { visibility: hidden; }
   darkmode-selector {
   /* Regular color */
   --waline-white: #000;
-    reaction: 'false'
 </style>
