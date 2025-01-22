@@ -19,6 +19,7 @@
     });
   </script>
 </body>
+<p id="comments-loading-message" style="font-size: 13px;">Отзывы отображаются снизу, дождитесь загрузки!</p>
 <style>
 .wl-count { visibility: hidden; }
 .wl-sort { visibility: hidden; }
@@ -26,4 +27,3 @@
   /* Regular color */
   --waline-white: #000;
 </style>
-<p id="comments-loading-message" style="font-size: 13px;">Отзывы отображаются снизу, дождитесь загрузки!</p>
