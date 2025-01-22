@@ -6,7 +6,7 @@
   />
 </head>
 <body>
-  <p id="comments-loading-message" style="font-size: 7px;">Отзывы отображаются снизу, дождитесь загрузки</p>
+  <p id="comments-loading-message" style="font-size: 11px;">Отзывы отображаются снизу, дождитесь загрузки</p>
   <!-- ... -->
   <div id="waline"></div>
   <script type="module">
