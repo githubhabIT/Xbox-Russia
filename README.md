@@ -26,4 +26,4 @@
   /* Regular color */
   --waline-white: #000;
 </style>
-<p id="comments-loading-message">Отзывы отображаются снизу, дождитесь загрузки</p>
+<p id="comments-loading-message">Отзывы отображаются снизу, дождитесь загрузки!</p>
