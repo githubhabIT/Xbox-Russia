@@ -6,6 +6,7 @@
   />
 </head>
 <body>
+  <p id="comments-loading-message">Отзывы отображаются снизу, дождитесь загрузки!</p>
   <!-- ... -->
   <div id="waline"></div>
   <script type="module">
@@ -26,4 +27,3 @@
   /* Regular color */
   --waline-white: #000;
 </style>
-<p id="comments-loading-message">Отзывы отображаются снизу, дождитесь загрузки!</p>
