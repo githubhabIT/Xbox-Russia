@@ -9,7 +9,7 @@
   <!-- ... -->
   <div id="waline"></div>
   <script type="module">
-    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.js';
 
     init({
       el: '#waline',
