@@ -14,7 +14,7 @@
       el: '#waline',
       serverURL: 'https://commentxbox.vercel.app',
       lang: 'ru',
-      reaction: 'false', // Set reaction to an empty string
+      reaction: false, // Set reaction to an empty string
     });
 </script>
 </body>
