@@ -12,7 +12,7 @@
     import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
     init({
       el: '#waline',
-      serverURL: 'https://commentxbox.vercel.app/',
+      serverURL: 'https://commentxbox.vercel.app',
       lang: 'ru',
       reaction: 'false', // Set reaction to an empty string
     });
