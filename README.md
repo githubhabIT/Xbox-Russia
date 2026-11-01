@@ -8,14 +8,16 @@
 <body>
   <!-- ... -->
   <div id="waline"></div>
-  <script type="module">
-    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-    init({
-      el: '#waline',
-      serverURL: 'https://commentxbox.vercel.app',
-      lang: 'ru',
-      reaction: false, // Set reaction to an empty string
-    });
+<script type="module">
+  import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+    el: '#waline',
+    serverURL: 'https://commentxbox.vercel.app',
+    path: '/Xbox-Russia/',          // ← попробуйте сначала этот вариант
+    lang: 'ru',
+    reaction: false,
+  });
 </script>
 </body>
 <style>
