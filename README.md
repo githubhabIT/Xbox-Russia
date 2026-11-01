@@ -8,12 +8,12 @@
 <div id="waline"></div>
 
 <script type="module">
-  import { init } from 'https://unpkg.com/@waline/client@latest/dist/waline.js';
+  import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
 
   init({
     el: '#waline',
     serverURL: 'https://commentxbox.vercel.app',
-    path: '/Xbox-Russia/',
+    path: '/Xbox-Russia/',          // ← попробуйте сначала этот вариант
     lang: 'ru',
     reaction: false,
   });
